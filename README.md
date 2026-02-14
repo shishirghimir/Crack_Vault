@@ -34,12 +34,6 @@ This is the main feature that sets CrackVault apart. If you know something about
 
 ---
 
-## Screenshots
-
-> Add your screenshots here after running the app
-
----
-
 ## Custom Data Structures
 
 Everything below was implemented from scratch — no built-in Python containers used for these:
@@ -117,4 +111,4 @@ CrackVault is an **educational tool** developed for academic coursework. It is i
 
 ---
 
-                                                                                    **Developed by Netanix Lab**
+Developed by Netanix Lab
